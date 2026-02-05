@@ -1,0 +1,8 @@
+C:\Users\zCrow\source\repos\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\zCrow\source\repos\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\valeu\OneDrive\Documentos\SistemaVentas3\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\valeu\OneDrive\Documentos\SistemaVentas3\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\valeu\OneDrive\Documentos\SistemaVentas3\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\valeu\OneDrive\Documentos\SistemaVentas3\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\valeu\OneDrive\Documentos\SistemaVentas3\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\valeu\OneDrive\Documentos\SistemaVentas3\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
